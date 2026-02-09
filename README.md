@@ -14,5 +14,6 @@ com foco em juventude periférica.
 - `figures/` – gráficos utilizados na pesquisa
 
 ## Status do projeto
-🟡 Exploração de dados em andamento  
-🔜 Próxima etapa: cruzamentos exploratórios
+Finalizado !!
+
+
