@@ -18,6 +18,6 @@ com foco em juventude periférica.
 ## Status do projeto:  
 | Projeto | Status | Tecs Usadas |
 | :--- | :--- | :--- |
-| 📊 **[PPT_Programa_IC_2025](https://www.canva.com/design/DAHBxQ9n0uw/eSxy83wfE6jN6M7kYPgdNg/view?utm_content=DAHBxQ9n0uw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb78ed7d22)**, **[Substack](https://substack.com/@marcolaandrade/note/p-206319953?r=8pyjq9&utm_source=notes-share-action&utm_medium=web)**| Finalizo | `Python`, `SQL`, `Excel` |
+| 📊 **[PPT_Programa_IC_2025](https://www.canva.com/design/DAHBxQ9n0uw/eSxy83wfE6jN6M7kYPgdNg/view?utm_content=DAHBxQ9n0uw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb78ed7d22)**, **[Substack](https://substack.com/@marcolaandrade/note/p-206319953?r=8pyjq9&utm_source=notes-share-action&utm_medium=web)**| Finalizado | `Python`, `SQL`, `Excel` |
 
 
