@@ -1,3 +1,5 @@
+# Inclusão Financeira de Jovens Periféricos
+
 <img width="1499" height="735" alt="image" src="https://github.com/user-attachments/assets/d0e23266-d846-4595-8f31-eb73eb0552e0" />
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -8,7 +10,7 @@
 | :--- | :--- | :--- |
 | 📊 **[PPT_Programa_IC_2025](https://www.canva.com/design/DAHBxQ9n0uw/eSxy83wfE6jN6M7kYPgdNg/view?utm_content=DAHBxQ9n0uw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb78ed7d22)**, **[Substack](https://substack.com/@marcolaandrade/note/p-206319953?r=8pyjq9&utm_source=notes-share-action&utm_medium=web)**| Finalizado | `Python`, `SQL`, `Excel` |
 
-# Inclusão Financeira de Jovens Periféricos
+
 
 Este repositório contém os notebooks e análises da Iniciação Científica
 **"Inclusão Financeira de Jovens Periféricos: Comportamento e Barreiras"**.
